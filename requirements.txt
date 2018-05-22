@@ -1,0 +1,26 @@
+import urllib.request
+import zipfile
+import click
+import imageio
+import pandas
+import numpy as np
+import six
+import pickle
+from PIL import Image
+import numpy as np
+import numpy, os
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+from matplotlib import interactive
+from os import listdir
+import tensorflow as tf
+from numpy import array
+from numpy import argmax
+from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.utils import shuffle
+from tensorflow.contrib.layers import flatten

@@ -1,0 +1,2 @@
+With the code you can make a predictive analysis for clasification German Traffic Signs, but using Tensor flow as a library. 
+First you have to set parameters of logistic regression, it means the dimensions, learning rate and size of the batch. You establish the model, train using random batch data and get the correct predictions for calculate accuracy. It means the accuracy is the correct predictions divided total.
