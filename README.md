@@ -7,7 +7,7 @@ Model 1: Use a logistic regression with scikit learn of python
 Train: 
 python app.py train -m LRscikit -d C:/blabla/blabla
 
-Note: The path is with "/" and not "\"
+Note: The path is with "/"
 
 Test:
 python app.py test -m LRscikit -d [directory with test data]
