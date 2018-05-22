@@ -1,5 +1,5 @@
 "# German-Traffic-Signs-Detector" 
-Here you can find differents methods for clasify German Traffic Signs. Save in image folder your dataset, train and test dataset respectively. It will change the size of images to 35x35 but for lenet we resize to 32x32 
+Here you can find differents methods for clasify German Traffic Signs. Save in image folder your dataset, train and test dataset respectively. It will change the size of images to 35x35 but for lenet we resize to 32x32. You have to create a "image" folder, inside this create "train" "test" "user" folders respectively and add your images
 
 
 Model 1: Use a logistic regression with scikit learn of python
